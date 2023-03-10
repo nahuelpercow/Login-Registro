@@ -1,0 +1,13 @@
+body{
+    background-image:url(../images/charlotte1.jpg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+*{
+    
+    
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
